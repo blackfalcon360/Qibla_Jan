@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- top face -->
+    <path
+        android:fillColor="#3A3A3A"
+        android:pathData="M28,40L40,31L84,31L72,40Z" />
+    <!-- front face -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M28,40L72,40L72,85L28,85Z" />
+    <!-- side face -->
+    <path
+        android:fillColor="#242424"
+        android:pathData="M72,40L84,31L84,76L72,85Z" />
+    <!-- gold band (kiswa belt) -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M28,49L72,49L72,56L28,56Z" />
+    <path
+        android:fillColor="#B8962E"
+        android:pathData="M72,49L84,40L84,47L72,56Z" />
+    <!-- gold door -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M52,66L63,66L63,85L52,85Z" />
+</vector>
