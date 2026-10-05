@@ -71,7 +71,7 @@ public class MainActivity extends Activity
                 FrameLayout.LayoutParams.WRAP_CONTENT
         );
         btnParams.gravity = Gravity.BOTTOM | Gravity.CENTER_HORIZONTAL;
-        btnParams.setMargins(0, 0, 0, dp(140)); // Screen ke bottom-info ke hisab se height adjust ki gayi hai
+        btnParams.setMargins(0, 0, 0, dp(300)); // Screen ke bottom-info ke hisab se height adjust ki gayi hai
 
         // 4. Combine into FrameLayout
         FrameLayout mainLayout = new FrameLayout(this);
